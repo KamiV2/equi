@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/equi/static/css/main.084417eb.css",
+    "main.js": "/equi/static/js/main.4532b8fa.js",
+    "static/media/tilt.png": "/equi/static/media/tilt.2db0e5e3e967ce00cd2d.png",
+    "static/media/bd.png": "/equi/static/media/bd.c081ba9516b64f627e3c.png",
+    "index.html": "/equi/index.html",
+    "main.084417eb.css.map": "/equi/static/css/main.084417eb.css.map",
+    "main.4532b8fa.js.map": "/equi/static/js/main.4532b8fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.084417eb.css",
+    "static/js/main.4532b8fa.js"
+  ]
+}
